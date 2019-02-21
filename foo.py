@@ -2,4 +2,5 @@ t = input("Hello World: ")
 print("Hello" +t)
 print("ended")
 print(t)
-print(input("what your name?? :"))sss
+print(input("what your name?? :"))
+print("new ff aded")
